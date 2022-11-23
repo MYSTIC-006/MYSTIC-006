@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://github.com/MYSTIC-006/MYSTIC-006/blob/main/20221123_195359.gif" alt="MYSTIC-006" />
+  <img src="https://github.com/MYSTIC-006/MYSTIC-006/blob/main/20221123_195359.gif" alt="MYSTIC-006" width="600" />
 </h1>
 
 
