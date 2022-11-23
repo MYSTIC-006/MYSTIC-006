@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://github.com/MYSTIC-006/MYSTIC-006/blob/main/20221123_195359.gif" alt="MYSTIC-006" width="1000" />
+  <img src="https://github.com/MYSTIC-006/MYSTIC-006/blob/main/20221123_195359.gif" alt="MYSTIC-006" width="800" />
 </h1>
 
 
@@ -9,13 +9,14 @@
 <h3 align="left">UNAUTHORIZED ELEMENT 😇</h3>
 <b><h3 align="left">ERRORS ARE THE BEAUTIFUL PART OF THIS👻</h3></b>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="MYSTIC-006" /> </p>
-
-
-<h3 align="left">Reach Me:</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="MYSTIC-006" /> </p>
+
+
+
+<h3 align="left">Reach Me:</h3>
 <p align="left">
 <a href="https://dev.to/mystic006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mystic006" height="30" width="40" /></a>
 <a href="https://twitter.com/mystic006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mystic006" height="30" width="40" /></a>
