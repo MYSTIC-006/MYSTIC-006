@@ -13,6 +13,9 @@
 
 
 <h3 align="left">Reach Me:</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 <p align="left">
 <a href="https://dev.to/mystic006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mystic006" height="30" width="40" /></a>
 <a href="https://twitter.com/mystic006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mystic006" height="30" width="40" /></a>
@@ -22,7 +25,6 @@
 <a href="https://www.youtube.com/c/mystic006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mystic006" height="30" width="40" /></a>
 <a href="https://discord.gg/mystic006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mystic006" height="30" width="40" /></a>
 </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <h3 align="left">WEAPONS :</h3>
