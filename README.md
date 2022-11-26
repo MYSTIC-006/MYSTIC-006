@@ -9,8 +9,19 @@
 <h3 align="left">UNAUTHORIZED ELEMENT 😇</h3>
 <b><h3 align="left">ERRORS ARE THE BEAUTIFUL PART OF THIS👻</h3></b>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+ <table border="1"  style="width:100%" align="center" cellpadding="40px">
+ 
+ <tr><th>⭕</th><th>❌</th><th>⭕</th></tr> 
+ 
+ <tr><th>❌</th><th>⭕</th><th>❌</th></tr>
+ 
+ <tr><th>⭕</th><th>❌</th><th>⭕</th></tr>
+ 
+ </table>
+ 
+
+ 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="MYSTIC-006" /> </p>
 
