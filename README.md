@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://github.com/MYSTIC-006/MYSTIC-006/blob/main/Ephoto360.com_1638199e138797.jpg" alt="MYSTIC-006" width="800" />
+  <img src="https://github.com/MYSTIC-006/MYSTIC-006/blob/main/Ephoto360.com_1638199e138797.jpg" alt="MYSTIC-006" width="1000" />
 </h1>
 
 
