@@ -14,7 +14,7 @@
  
 
  
- <table border="1"  style="width:100%" align="center" cellpadding="100px">
+ <table border="15"  style="width:100%" align="center" cellpadding="1000px">
  
  <tr><th>⭕</th><th>❌</th><th>⭕</th></tr> 
  
