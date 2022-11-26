@@ -10,7 +10,11 @@
 <b><h3 align="left">ERRORS ARE THE BEAUTIFUL PART OF THIS👻</h3></b>
 
 
- <table border="1"  style="width:100%" align="left" cellpadding="40px">
+ 
+ 
+
+ 
+ <table border="1"  style="width:100%" align="center" cellpadding="100px">
  
  <tr><th>⭕</th><th>❌</th><th>⭕</th></tr> 
  
@@ -22,27 +26,6 @@
  
 
  
- <table border="1"  style="width:100%" align="center" cellpadding="40px">
- 
- <tr><th>⭕</th><th>❌</th><th>⭕</th></tr> 
- 
- <tr><th>❌</th><th>⭕</th><th>❌</th></tr>
- 
- <tr><th>⭕</th><th>❌</th><th>⭕</th></tr>
- 
- </table>
- 
-
- 
- <table border="1"  style="width:100%" align="right" cellpadding="40px">
- 
- <tr><th>⭕</th><th>❌</th><th>⭕</th></tr> 
- 
- <tr><th>❌</th><th>⭕</th><th>❌</th></tr>
- 
- <tr><th>⭕</th><th>❌</th><th>⭕</th></tr>
- 
- </table>
  
 
  
