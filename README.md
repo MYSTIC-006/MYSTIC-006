@@ -12,9 +12,37 @@
 
  
  
+<div>
+ 
+ <table border="15"  style="width:33%" align="left" cellpadding="1000px">
+ 
+ <tr><th>⭕</th><th>❌</th><th>⭕</th></tr> 
+ 
+ <tr><th>❌</th><th>⭕</th><th>❌</th></tr>
+ 
+ <tr><th>⭕</th><th>❌</th><th>⭕</th></tr>
+ 
+ </table>
+  <table border="15"  style="width:33%" align="center" cellpadding="1000px">
 
  
- <table border="15"  style="width:100%" align="center" cellpadding="1000px">
+
+ <tr><th>⭕</th><th>❌</th><th>⭕</th></tr> 
+
+ 
+
+ <tr><th>❌</th><th>⭕</th><th>❌</th></tr>
+
+ 
+
+ <tr><th>⭕</th><th>❌</th><th>⭕</th></tr>
+
+ 
+
+ </table>
+  
+ 
+<table border="15"  style="width:33%" align="right" cellpadding="1000px">
  
  <tr><th>⭕</th><th>❌</th><th>⭕</th></tr> 
  
@@ -24,10 +52,8 @@
  
  </table>
  
-
  
- 
-
+</div>
  
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="MYSTIC-006" /> </p>
