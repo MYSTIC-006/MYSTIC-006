@@ -23,23 +23,6 @@
  <tr><th>⭕</th><th>❌</th><th>⭕</th></tr>
  
  </table>
-  <table border="15"  style="width:33%" align="center" cellpadding="1000px">
-
- 
-
- <tr><th>⭕</th><th>❌</th><th>⭕</th></tr> 
-
- 
-
- <tr><th>❌</th><th>⭕</th><th>❌</th></tr>
-
- 
-
- <tr><th>⭕</th><th>❌</th><th>⭕</th></tr>
-
- 
-
- </table>
   
  
 <table border="15"  style="width:33%" align="right" cellpadding="1000px">
