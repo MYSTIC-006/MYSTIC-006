@@ -61,12 +61,12 @@
 
 
  <br/>  
+ <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=uy00a5utij04dwch2qiyazjlw&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 <p align="center">
 
   <a href="https://readme.andyruwruw.com/api/now-playing?open">
 
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-
+    
     <img src="https://readme.andyruwruw.com/api/now-playing">
 
   </a>
