@@ -67,8 +67,7 @@
   <a href="https://readme.andyruwruw.com/api/now-playing?open">
 
     
-    <img src="https://readme.andyruwruw.com/api/now-playing">
-
+    
   </a>
 
 </p>
