@@ -7,7 +7,8 @@
 <h1 align="left">Hi Its Me Mystic🍭</h1>
 <h3 align="left"> Just A Beginner 👽</h3>
 <h3 align="left"> HOME : Area 51👽</h3>
-<h3 align="left">UNAUTHORIZED ELEMENT 😇</h3>
+<h3 align="left">UNAUTHORIZED ELEMENT 😇<br>
+Wandering in search of beginning</h3>
 <b><h3 align="left">ERRORS MAKE PERFECTIONS</h3></b>
 
 
